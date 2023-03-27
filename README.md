@@ -508,6 +508,7 @@ Inspired by the <b><code>245802⭐</code></b> <b><code>&nbsp;25291🍴</code></b
 - <b><code>&nbsp;&nbsp;&nbsp;303⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [organize-cli](https://github.com/ManrajGrover/organize-cli)) - Organize your files automatically.
 - 🌎 [organize-rt](gitlab.com/FixFromDarkness/organize-rt) - organize-cli in Rust with more customization.
 - <b><code>&nbsp;&nbsp;&nbsp;716⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;28🍴</code></b> [RecoverPy](https://github.com/PabloLec/RecoverPy)) - Recover overwritten or deleted files.
+- <b><code>&nbsp;&nbsp;3039⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;78🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard)) - Cut, copy, and paste anything, anytime, anywhere.
 
 ### File Sync/Sharing
 
