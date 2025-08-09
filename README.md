@@ -570,6 +570,7 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 - <b><code>&nbsp;&nbsp;6542⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;188🍴</code></b> [git-stats](https://github.com/IonicaBizau/git-stats)) - A local GitHub-like contributions calendar.
 - <b><code>&nbsp;&nbsp;&nbsp;179⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;12🍴</code></b> [dev-time](https://github.com/samverschueren/dev-time-cli)) - Get the current local time of a GitHub user.
 - <b><code>&nbsp;12822⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;631🍴</code></b> [tig](https://github.com/jonas/tig)) - Text-mode interface for git.
+- <b><code>&nbsp;114⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;6🍴</code></b> [ggc]([https://github.com/bmf-san/ggc](https://github.com/bmf-san/ggc))) - A modern Git CLI tool with both traditional command-line and interactive incremental-search UI.
 - <b><code>&nbsp;&nbsp;4064⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;97🍴</code></b> [grv](https://github.com/rgburke/grv)) - Text-mode interface for git with customisable vi bindings.
 - <b><code>&nbsp;&nbsp;7762⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;312🍴</code></b> [git-standup](https://github.com/kamranahmedse/git-standup)) - Recall what you did on the last working day.
 - <b><code>&nbsp;&nbsp;3874⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;204🍴</code></b> [git-secret](https://github.com/sobolevn/git-secret)) - Store your private data inside a git repository.
@@ -664,4 +665,5 @@ See 🌎 [plaintextaccounting.org](plaintextaccounting.org) for a great overview
 To the extent possible under law, 🌎 [Adam Garrett-Harris](twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
 
 ## Source
+
 <b><code>&nbsp;17157⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;968🍴</code></b> [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps))
