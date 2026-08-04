@@ -839,6 +839,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Local-first agent TUI.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 - [agentty](https://github.com/1ay1/agentty) - C++ agent TUI.
+- [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 
 ### LLM Interaction
 
