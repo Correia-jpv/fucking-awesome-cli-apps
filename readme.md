@@ -713,6 +713,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [semantic-grep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 - [reflex](https://github.com/reflex-search/reflex) - Instant, offline, code-aware search for text, symbols, and import graphs.
 - [Vexor](https://github.com/scarletkc/vexor) - A semantic search engine for files and code.
+- [ygrep](https://github.com/yetidevworks/ygrep) - Indexed code search backed by a local Tantivy full-text index.
 
 ## Version Control
 
