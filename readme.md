@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking, Lists, Task Management](#note-taking-lists-task-management)
+  - [Email](#email)
   - [Finance](#finance)
   - [Presentations](#presentations)
   - [Calendars](#calendars)
@@ -322,7 +323,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
-- [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira client.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 - [uber-cli](https://github.com/jaebradley/uber-cli) - Uber client.
@@ -368,6 +368,11 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [epiq](https://github.com/ljtn/epiq) - Local-first distributed issue tracker backed by Git.
 - [feeling](https://github.com/qiz-li/feeling) - Mood tracker that visualizes your emotional patterns over time.
 - [confluence-cli](https://github.com/pchuri/confluence-cli) - Confluence client.
+
+### Email
+
+- [NeoMutt](https://neomutt.org) - Email client.
+- [mail-duplicate](https://github.com/kdeldycke/mail-deduplicate) - Deduplicate mail boxes.
 
 ### Finance
 
