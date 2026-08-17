@@ -334,6 +334,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) - Linear TUI client.
 - [jiratui](https://github.com/whyisdifficult/jiratui) - TUI app for Jira.
+- [tiki](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
 
 ### Time Tracking
 
