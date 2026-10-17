@@ -255,6 +255,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 - [RunWisp](https://github.com/runwisp/runwisp) - Featureful cron and supervisord replacement.
+- <b><code>&nbsp;&nbsp;&nbsp;21⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;23🍴</code></b> [tdk-cli-core](https://github.com/tdk-landscape/tdk-cli-core) - Start local services on Docker and Tilt from one service.json per service, no Kubernetes.
 
 ### Docker
 
